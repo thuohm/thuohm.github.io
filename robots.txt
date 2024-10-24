@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thuohm.github.io/qfn/sitemap.qfn
